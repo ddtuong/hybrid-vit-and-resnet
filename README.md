@@ -8,7 +8,7 @@ The model combines feature representations from both ViT and ResNet, and the fin
 ## Train and Test with transfer learning
 
 ### 🛠 Step 1: Configure Training Parameters
-Before starting <small>**transfer learning**</small> training, first configure the training parameters in the <small>**`configurations.py`**<small> file:
+Before starting <small>**training**</small>, first configure the training parameters in the <small>**`configurations.py`**<small> file:
 
 This file contains all global settings related to dataset paths, model, training hyperparameters, and evaluation setup.  
 
