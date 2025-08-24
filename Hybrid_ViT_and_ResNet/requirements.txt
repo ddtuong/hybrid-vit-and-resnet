@@ -1,0 +1,2 @@
+torchvision==0.21.0+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
+scikit-learn==1.6.1
