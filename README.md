@@ -268,8 +268,8 @@ best_model = HybridViTResNet(vit_name="vit_l_16", resnet_name="resnet101", num_c
 
 ### Installation
 ```python
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ddtuong/hybrid-vit-and-resnet.git
+cd hybrid-vit-and-resnet
 pip install -r requirements.txt
 ```
 
